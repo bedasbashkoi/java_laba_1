@@ -1,4 +1,9 @@
 import java.util.Scanner;
+
+/**
+ * @autor Азаров Илья https://github.com/bedasbashkoi/java_laba_1.git
+ */
+
 class Container
 {
     static class Node
